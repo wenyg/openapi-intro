@@ -83,4 +83,20 @@ pattern: ^(\\([0-9]{3}\\))?[0-9]{3}-[0-9]{4}$
   "(800)FLOWERS"
   ```
 
-  
+## format
+
+openapi 中 string 还有一个常见的关键字 `format` ，可以用来描述特殊的字符串
+
+- base64 编码的字符
+
+  ```yaml
+  type: string
+  format: byte
+  ```
+
+- 二进制文件
+
+  ```yaml
+  type: string
+  format: binary
+  ```

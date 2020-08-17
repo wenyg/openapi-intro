@@ -60,3 +60,5 @@
    $ref: '#/paths/blogs{blog_id}/new~posts'
    $ref: '#/paths/~1blogs~1{blog_id}~1new~0posts'
    ```
+
+3. 只有是支持 schema 的地方，都支持引用

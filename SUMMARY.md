@@ -14,7 +14,7 @@
                 * [text/plain](openapi/media.md)
                   * [schema](openapi/schema.md)
     * [components](openapi/components.md)
-* 常见的 schema 规则
+* [常见的 schema 规则](schema/index.md)
     * [字符串](schema/string.md)
     * [数字](schema/number.md)
     * [json object](schema/json.md)
@@ -22,5 +22,4 @@
     * [布尔值](schema/boolean.md)
     * [组合](schema/combining.md)
     * [引用](schema/ref.md)
-    
-    - [通用]()
+    - [通用](schema/generic.md)
