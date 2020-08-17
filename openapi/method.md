@@ -1,5 +1,7 @@
 # get, post, put, delete, ...
 
+### 请求方法
+
 每个方法下面，只有一个必要的字段 `responses` 来描述相应
 
 ```yaml
@@ -28,7 +30,7 @@ paths:
       parameters: 
         # 请求参数
       requestBody:
-        # 请求题目
+        # 请求体
       responses:
         # 响应
       callbacks:
@@ -38,6 +40,5 @@ paths:
         - # 授权机制
       servers: 
         - # 服务器对象 
-        
 ```
 

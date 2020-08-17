@@ -1,6 +1,6 @@
 # info
 
-info 字段， 就是描述该服务的一些信息， 必要字段字段也就两个 `title`， `version`
+info 字段， 就是描述该服务的一些信息， 必要字段字段也就两个 `title`， `version` 是一些帮助信息
 
 ```yaml
 info:

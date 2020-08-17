@@ -22,3 +22,5 @@
     * [布尔值](schema/boolean.md)
     * [组合](schema/combining.md)
     * [引用](schema/ref.md)
+    
+    - [通用]()

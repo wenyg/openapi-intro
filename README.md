@@ -36,7 +36,7 @@ Content-Type: text/plain
 hello
 ```
 
-本文主要介绍如何在 OpenAPI 中描述一个接口
+本文档主要介绍如何在 OpenAPI 中描述一个接口
 
 ### OpenAPI 结构
 
@@ -59,3 +59,6 @@ tags:
 externalDocs:
   # 外部文档
 ```
+
+接下来的章节中会对大部分常见的字段进行描述. 本文档左侧的目录结构也会按照 OpenAPI 各个字段的层级一样排列,方便快速查找
+
