@@ -1,4 +1,5 @@
-* [OpenAPI 文档结构](README.md)
+* [OpenAPI 介绍](README.md)
+* [OpenAPI 文档结构](openapi/structure.md)
   * [openapi](openapi/openapi.md)
   * [info](openapi/info.md)
   * [paths](openapi/paths.md)
