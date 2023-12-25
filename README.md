@@ -9,4 +9,4 @@ docker build -t wenyg/docsify .
 ./run.sh
 ```
 
-浏览器打开 `http://localhost:3000/` 进行预览
+浏览器打开 `http://localhost:8080/` 进行预览
